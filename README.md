@@ -7,7 +7,7 @@
 
 <h1 align="center">Hi 👋, I'm Madeesha S Karunarathna</h1>
 
-<h3 align="center">Second year undergraduate at University of Moratuwa Faculty of Information Technology</h3>
+<h3 align="center">Third year undergraduate at University of Moratuwa Faculty of Information Technology</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=madeeshask&label=Profile%20views&color=0e75b6&style=flat" alt="madeeshask" /> </p>
 
@@ -23,7 +23,7 @@
 
 - 🎓 I'm an undergraduate at **University of Moratuwa**
 
-- 🌱 I’m currently learning **Spring, React, Angular, Nodejs, MongoDB**
+- 🌱 I’m currently learning **Spring, React, Nodejs, Nextjs, AWS**
 
 - 📫 How to reach me **madeeshasachindu2@gmail.com**
 
