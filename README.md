@@ -46,30 +46,39 @@
 
 <p align="center">
   <!-- Row 1 -->
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/></a>
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/></a>
+  <a href="https://www.java.com" target="_blank"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Java-Dark.svg" width="40" height="40" alt="Java"/></a>
+  <a href="https://www.python.org" target="_blank"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Dark.svg" width="40" height="40" alt="Python"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg" width="40" height="40" alt="JavaScript"/></a>
+  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TypeScript.svg" width="40" height="40" alt="TypeScript"/></a>
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/Scar1109/skill-icons/blob/main/icons/C.svg" alt="c" width="40" height="40"/> </a>
 </p>
 
 <p align="center">
   <!-- Row 2 -->
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40" alt="React"/></a>
-  <a href="https://reactnative.dev/" target="_blank"><img src="https://reactnative.dev/img/header_logo.svg" width="40" height="40" alt="React Native"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40" alt="Node.js"/></a>
-  <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40" height="40" alt="Express"/></a>
-  <a href="https://spring.io/" target="_blank"><img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" width="40" height="40" alt="Spring Boot"/></a>
+  <a href="https://flutter.dev" target="_blank"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/HTML.svg" width="40" height="40" alt="HTML"/></a>
+  <a href="https://flutter.dev" target="_blank"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/CSS.svg" width="40" height="40" alt="CSS"/></a>
+  <a href="https://flutter.dev" target="_blank"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Sass.svg" width="40" height="40" alt="sCSS"/></a>
+  <a href="https://flutter.dev" target="_blank"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Bootstrap.svg" width="40" height="40" alt="boostrap"/></a>
+  <a href="https://flutter.dev" target="_blank"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TailwindCSS-Dark.svg" width="40" height="40" alt="tilwindCSS"/></a>
+  <a href="https://flutter.dev" target="_blank"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MaterialUI-Dark.svg" width="40" height="40" alt="materialui"/></a>
+  <a href="https://reactjs.org/" target="_blank"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/React-Dark.svg" width="40" height="40" alt="React"/></a>
+  <a href="https://reactnative.dev/" target="_blank"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NextJS-Dark.svg" width="40" height="40" alt="Next"/></a>
+  <a href="https://nodejs.org" target="_blank"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/NodeJS-Dark.svg" width="40" height="40" alt="Node.js"/></a>
+  <a href="https://expressjs.com" target="_blank"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/ExpressJS-Dark.svg" width="40" height="40" alt="Express"/></a>
+  <a href="https://spring.io/" target="_blank"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Spring-Dark.svg" width="40" height="40" alt="Spring Boot"/></a>
+  <a href="https://flutter.dev" target="_blank"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Flutter-Dark.svg" width="40" height="40" alt="Flutter"/></a>
 </p>
 
 <p align="center">
   <!-- Row 3 -->
-  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="40" height="40" alt="Flutter"/></a>
-  <a href="https://getbootstrap.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="Bootstrap"/></a>
-  <a href="https://tailwindcss.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind"/></a>
-  <a href="https://sass-lang.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" width="40" height="40" alt="Sass"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="HTML5"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="CSS3"/></a>
+  <a href="https://flutter.dev" target="_blank"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/AWS-Dark.svg" width="40" height="40" alt="aws"/></a>
+  <a href="https://getbootstrap.com" target="_blank"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Firebase-Dark.svg" width="40" height="40" alt="firebase"/></a>
+  <a href="https://tailwindcss.com/" target="_blank"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Vercel-Dark.svg" width="40" height="40" alt="vercel"/></a>
+  <a href="https://sass-lang.com" target="_blank"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MySQL-Dark.svg" width="40" height="40" alt="mysql"/></a>
+  <a href="https://www.w3.org/html/" target="_blank"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/MongoDB.svg" width="40" height="40" alt="mongodb"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Git.svg" width="40" height="40" alt="git"/></a>
+  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Arduino.svg" width="40" height="40" alt="arduino"/></a>
 </p>
 
 ---
