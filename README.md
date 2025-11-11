@@ -50,7 +50,7 @@
   <a href="https://www.python.org" target="_blank"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/Python-Dark.svg" width="40" height="40" alt="Python"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/JavaScript.svg" width="40" height="40" alt="JavaScript"/></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/TypeScript.svg" width="40" height="40" alt="TypeScript"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" alt="C"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://github.com/Scar1109/skill-icons/blob/main/icons/C.svg" width="40" height="40" alt="C"/></a>
 </p>
 
 <p align="center">
