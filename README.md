@@ -37,7 +37,7 @@
 <a href="https://fb.com/madeeshasachindu.karunarathna" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="40" width="50" /></a>
 <a href="https://www.hackerrank.com/madeeshask" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="40" width="50" /></a>
 <a href="https://www.leetcode.com/madeeshask" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="40" width="50" /></a>
-<a href="https://madeesha.me/" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=W80reZvWli3F&format=png&color=000000" alt="Portfolio" height="40" width="50" /></a>
+<a href="https://madeesha.me/" target="blank">Portfolio</a>
 </p>
 
 ---
